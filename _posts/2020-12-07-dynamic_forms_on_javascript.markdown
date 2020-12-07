@@ -1,14 +1,12 @@
 ---
 layout: post
 title:      " Dynamic Forms on JavaScript"
-date:       2020-12-07 05:02:54 +0000
+date:       2020-12-07 00:02:54 -0500
 permalink:  dynamic_forms_on_javascript
 ---
 
 
-When starting a project my always goes crazy with ideas and plans I have for it, but reality quickly pulls me back and I have to fit my ideas to the time window and functionality available. This is now our 4th project and I am slowly but surely growing in confidence and skill. This time me and a fellow student paired up to work on our separate projects alongside each other which made the process much smoother. 
-
-From many features I wanted to add, a form that adapted dynamically depending on a form with the categories listed, was When starting a project my always goes crazy with ideas and plans I have for it, but reality quickly pulls me back and I have to fit my ideas to the time window and functionality available. This is now our 4th project and I am slowly but surely growing in confidence and skill. This time I and a fellow student paired up to work on our separate projects alongside each other which made the process much smoother. 
+When starting a project my always goes crazy with ideas and plans I have for it, but reality quickly pulls me back and I have to fit my ideas to the time window and functionality available. This is now our 4th project and I am slowly but surely gaining in confidence and skill. This time me and a fellow student paired up to work on our separate projects alongside each other which made the process much smoother. 
 
 From many features I wanted to add, a form that adapted dynamically depending on a form with the categories listed, was definitely a must. And yes, it was as complicated as it sounds to figure out. We searched for multiple sources, but none quite provided what I needed. Until we came across a YouTube video by [Unpossible POG](https://youtu.be/iWIaU8Jq8-4) where he explained how to get a dynamic dropdown that provided another dropdown depending on the input. This was the closest source we found to what I needed so what I needed to do now was refactor it. 
 
